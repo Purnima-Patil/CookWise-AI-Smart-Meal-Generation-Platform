@@ -1,0 +1,6 @@
+{
+  "name": "Smart Recipe Generator - AI Culinary Platform",
+  "description": "Create personalized gourmet recipes from the ingredients you already have, with AI recipe generation, voice guidance, and an intelligent cooking assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
